@@ -34,12 +34,12 @@
 
 
 ## HARDN-XDR
-- **Our Goal**: 
+- **Our Goal**:
   - Assist the open source community in building a Debian based **"GOLDEN IMAGE"** System, with Multi Architecture capabilities.
-- **Our Purpose**: 
+- **Our Purpose**:
   - To empower IT administrators and users with the tools they need to ensure endpoint security, optimize performance, and maintain compliance across their organization.
 - **What we have to offer**:
-  - A robust and secure endpoint management solution designed to simplify and enhance the management of devices in your network. 
+  - A robust and secure endpoint management solution designed to simplify and enhance the management of devices in your network.
   - Advanced features for monitoring, securing, and maintaining endpoints efficiently.
   - `STIG` COMPLIANCE to align with the [Security Technical Information Guides](https://public.cyber.mil/stigs/) provided by the [DOD Cyber Exchange](https://public.cyber.mil/).
 
@@ -55,7 +55,7 @@
 - **Scalability**: Manage endpoints across small to large-scale networks.
 - **User-Friendly Interface**: Intuitive design for seamless navigation and management.
 - **Interactive Menu**: A user-friendly menu to select which hardening modules to apply.
-- **STIG Compliance**: This release brings the utmost security for Debian Government based information systems. 
+- **STIG Compliance**: This release brings the utmost security for Debian Government based information systems.
 
 
 <br>
@@ -79,8 +79,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LICENSE-white?style=for-the-badge&labelColor=black" alt="LICENSE"><br><br>
 This project is licensed under the MIT License.
-  
+
 </p>
+
+<br>
+
+
+<p align="center">
+  <a href="https://hardn.cybersynapse.ro/">Visit HARDN-XDR Website</a><br><br>
+</p>
+
+
 
 <br>
 
