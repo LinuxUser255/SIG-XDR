@@ -59,7 +59,14 @@
 
 
 <br>
+
 <br>
+<p align="center">
+<strong><span style="font-size: 1.50em;">Visit us at</span></strong><br>
+  <strong><a href="https://securityinternationalgroup.org/" style="font-size: 1.50em;">https://securityinternationalgroup.org/</a></strong><br>
+</p>
+
+
 
 <br>
 
