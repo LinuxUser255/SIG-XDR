@@ -62,11 +62,11 @@
 
 
 <p align="center">
-<strong>Visit us at</strong>
+<strong><span style="font-size: 2em;">Visit us at</span></strong>
 </p>
 
 <p align="center">
-<strong><a href="https://github.com/LinuxUser255/SIG-XDR">https://github.com/LinuxUser255/SIG-XDR</a></strong>
+<strong><a href="https://github.com/LinuxUser255/SIG-XDR" style="font-size: 2em;">https://github.com/LinuxUser255/SIG-XDR</a></strong>
 </p>
 
 
