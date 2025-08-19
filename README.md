@@ -60,11 +60,10 @@
 
 <br>
 
-<br>
-<p align="center">
-<strong><span style="font-size: 4em;">Visit us at</span></strong><br>
-  <strong><a href="https://securityinternationalgroup.org/" style="font-size: 4em;">https://securityinternationalgroup.org/</a></strong><br>
-</p>
+
+### Visit us at
+
+### https://github.com/LinuxUser255/SIG-XDR
 
 
 
