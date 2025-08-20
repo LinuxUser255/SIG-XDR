@@ -59,6 +59,7 @@
 
 
 <br>
+<<<<<<< HEAD
 
 
 <p align="center">
@@ -70,6 +71,15 @@
 </p>
 
 
+=======
+<p align="center">
+<strong><span style="font-size: 1.50em;">Visit us at</span></strong><br>
+  <strong><a href="https://securityinternationalgroup.org/" style="font-size: 1.50em;">https://securityinternationalgroup.org/</a></strong><br>
+</p>
+
+
+<br>
+>>>>>>> c93074d (updated README.md)
 
 <br>
 
@@ -94,16 +104,7 @@ This project is licensed under the MIT License.
 
 <br>
 
-
-<p align="center">
-  <a href="https://hardn.cybersynapse.ro/">Visit HARDN-XDR Website</a><br><br>
-</p>
-
-
-
-<br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/CONTACT-white?style=for-the-badge&labelColor=black" alt="CONTACT"><br><br>
-office@cybersynapse.ro
+<strong>office@cybersynapse.ro</strong>
 </p>
